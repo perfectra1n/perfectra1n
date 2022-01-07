@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @perfectra1n
-- 👀 I’m interested in Cybersecurity. Everything from cloud pentesting, to malware anaylysis.
+- 👋 Hi, I’m @perfectra1n! I love Cybersecurity, DevOps, and homelabbing.
+- 👀 I’m interested in Cybersecurity and DevOps. Everything from cloud pentesting, to malware anaylysis.
 - 🌱 I’m currently learning anything 👀
 - 💞️ I’m looking to collaborate on anything related to Cybersecurity, I also don't mind DevOps related tools.
 - 📫 You can reach me at perf3ctsec@gmail.com
